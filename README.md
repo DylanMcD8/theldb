@@ -8,6 +8,9 @@ https://peroxaan.com/Electrocam/
 
 A lot of what you'll see here is unfinished projects...
 
+While you're here, might as well have a look at my twitter as well. 
+
+
 <!--
 **TheLDB/theldb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
