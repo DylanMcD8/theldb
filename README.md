@@ -5,6 +5,8 @@ http://classmates.delivery
 
 https://peroxaan.com/Electrocam/
 
+A lot of what you'll see here is unfinished projects...
+
 <!--
 **TheLDB/theldb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
