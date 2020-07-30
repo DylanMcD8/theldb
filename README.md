@@ -1,4 +1,4 @@
-
+![Oops, seems like the gif didnt load.... this is awkward](https://github.com/TheLDB/theldb/blob/master/20051-programming.gif)
 ### I am a 15 year old iOS Developer from Colorado.
 ### List of things I am currently working on:
 http://classmates.delivery
