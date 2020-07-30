@@ -9,7 +9,8 @@ https://peroxaan.com/Electrocam/
 A lot of what you'll see here is unfinished projects...
 
 While you're here, might as well have a look at my twitter as well. 
-![Hmm, if you're seeing this, that means my twitter didnt load. Oh well.](https://github.com/TheLDB/theldb/blob/master/18887-twitter-notification.gif)
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/theldb_"><img src="https://github.com/TheLDB/theldb/raw/master/18887-twitter-notification.gif" alt="Hmm, if you're seeing this, that means my twitter didnt load. Oh well." style="max-width:100%;"></a>
+
 
 
 <!--
