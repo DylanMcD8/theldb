@@ -2,7 +2,8 @@
 ### I am a 15 year old Distributed Systems Engineer from Colorado
 ### I am currently working on [Classmates](https://classmates.delivery) as well as developing [Electrocam](https://peroxaan.com/Electrocam/)
 
-A lot of what you'll see here is unfinished projects...
+## 
+![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb)
 
 
 
