@@ -1,10 +1,6 @@
-![Oops, seems like the gif didnt load.... this is awkward](https://github.com/TheLDB/theldb/blob/master/20051-programming.gif)
 ### Hi, seems like you have stumbled across my profile one way or another, well, have a look around 👇
 ### I am a 15 year old Distributed Systems Engineer from Colorado
-### List of things I am currently working on:
-http://classmates.delivery
-
-https://peroxaan.com/Electrocam/
+### I am currently working on [Classmates](https://classmates.delivery) as well as developing [Electrocam](https://peroxaan.com/Electrocam/)
 
 A lot of what you'll see here is unfinished projects...
 
