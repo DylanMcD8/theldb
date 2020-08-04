@@ -1,6 +1,13 @@
-### Hi, seems like you have stumbled across my profile one way or another, well, have a look around 👇
-### I am a 15 year old Distributed Systems Engineer from Colorado
-### I am currently working on [Classmates](https://classmates.delivery) as well as developing [Electrocam](https://peroxaan.com/Electrocam/)
+# Hi There!
+### My name is Landon. I am a 15 year old Distributed Systems Engineer and iOS Dev currently building [Classmates](https://classmates.delivery) as well as developing [Electrocam](https://peroxaan.com/Electrocam/)
+
+# *More About Me*
+* I live in Colorado
+* I love Space and the idea of travelling to and living on different planets
+* I love the mountains
+
+> *Failure is an option here. If things are not failing, you are not innovating enough.* 
+> <quote> *-- Elon Musk* </quote>
 
 ## 
 ![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb)
