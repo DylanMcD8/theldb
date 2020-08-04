@@ -1,15 +1,12 @@
 ![Oops, seems like the gif didnt load.... this is awkward](https://github.com/TheLDB/theldb/blob/master/20051-programming.gif)
 ### Hi, seems like you have stumbled across my profile one way or another, well, have a look around 👇
-### I am a 15 year old iOS Developer from Colorado.
+### I am a 15 year old Distributed Systems Engineer from Colorado
 ### List of things I am currently working on:
 http://classmates.delivery
 
 https://peroxaan.com/Electrocam/
 
 A lot of what you'll see here is unfinished projects...
-
-While you're here, might as well have a look at my twitter as well. 
-<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/theldb_"><img src="https://github.com/TheLDB/theldb/raw/master/18887-twitter-notification.gif" alt="Hmm, if you're seeing this, that means my twitter didnt load. Oh well." style="max-width:100%;"></a>
 
 
 
