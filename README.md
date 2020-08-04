@@ -10,7 +10,7 @@
 > <quote> *-- Elon Musk* </quote>
 
 ## 
-![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb)
+![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb&theme=dracula&show_icons=true)
 
 
 
