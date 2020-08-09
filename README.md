@@ -4,7 +4,7 @@
 # *More About Me*
 * I live in Colorado
 * I love Space and the idea of travelling to and living on different planets
-* I love the mountains
+* I love the mountains, especially skiing and snow
 
 > *Failure is an option here. If things are not failing, you are not innovating enough.* 
 > <quote> *-- Elon Musk* </quote>
