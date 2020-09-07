@@ -9,7 +9,7 @@
 > *Failure is an option here. If things are not failing, you are not innovating enough.* 
 > <quote> *-- Elon Musk* </quote>
 
-## ![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb&theme=synthwave&show_icons=true)
+## ![Landon's Github Stats](https://github-readme-stats-sigma-two.vercel.app/api?username=theldb&theme=classmates&show_icons=true)
 
 
 
