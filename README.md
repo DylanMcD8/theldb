@@ -9,12 +9,9 @@
 > *Failure is an option here. If things are not failing, you are not innovating enough.* 
 > <quote> *-- Elon Musk* </quote>
 
-## ![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb&title_color=EE8C03&icon_color=EE8C03&text_color=EE8C03&bg_color=282a36&show_icons=true)
+<!-- ## ![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb&title_color=EE8C03&icon_color=EE8C03&text_color=EE8C03&bg_color=282a36&show_icons=true)
 
 
-
-
-<!--
 **TheLDB/theldb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
