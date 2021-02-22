@@ -13,7 +13,7 @@ I Know Well
 - Python
 
 I'm Learning
--  ![R Language](https://en.wikipedia.org/wiki/R_(programming_language)
+- R
 - Node
 - Python
 
