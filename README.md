@@ -9,8 +9,8 @@ Some of my biggest hobbies/things I like are Space Exploration and Discovery, pr
 
 ## Lanuages
 I Know Well
-- JavaScript (Web and Nodejs)
-- HTML & CSS (NOt evEn LanGuAges)
+- Node
+- Python
 
 I'm Learning
 - ![R](https://en.wikipedia.org/wiki/R_(programming_language)
