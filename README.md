@@ -1,27 +1,34 @@
-# Hi There!
-### My name is Landon. I am a 15 year old Backend Systems Engineer and iOS Dev currently building [Classmates](http://classmates.delivery) as well as developing the [Aerosketch API](https://peroxaan.com/Aerosketch).
+# Hi 👋, I'm Landon
+I use Node and Python as my main languages right now, also mess with some React Native. 
+Some of my biggest hobbies/things I like are Space Exploration and Discovery, programming, and gaming. I mainly play VALORANT right now. 
 
-# *More About Me*
-* I live in Colorado
-* I love Space and the idea of travelling to and living on different planets
-* I love the mountains, especially skiing and snow
+![Metrics](https://github.com/theldb/theldb/blob/master/metrics.svg)
+![Mastered](https://github.com/theldb/theldb/blob/master/topics.svg)
+![Most used languages](https://github.com/theldb/theldb/blob/master/languages.svg)
+![Habits](https://github.com/theldb/theldb/blob/master/habits.svg)
 
-> *Failure is an option here. If things are not failing, you are not innovating enough.* 
-> <quote> *-- Elon Musk* </quote>
+## Lanuages
+I Know Well
+- JavaScript (Web and Nodejs)
+- HTML & CSS (NOt evEn LanGuAges)
 
-<!-- ## ![Landon's Github Stats](https://github-readme-stats.vercel.app/api?username=theldb&title_color=EE8C03&icon_color=EE8C03&text_color=EE8C03&bg_color=282a36&show_icons=true)
+I'm Learning
+- ![R](https://en.wikipedia.org/wiki/R_(programming_language)
+- Node
+- Python
 
+Sort Of Know / Want To Learn
+- React Native
+- React
+- Go
 
-**TheLDB/theldb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
+- [Website](http://landonboles.com) My website. Contact form is broken, still need to fix.
+- [Twitter](https://twitter.com/theldb_)
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current projects:
+- [classmates delivery](https://classmates.delivery)
+- [aerosketch](https://peroxaan.com/Aerosketch) I am developing the backend API
+
