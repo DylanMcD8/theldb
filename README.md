@@ -6,18 +6,16 @@ Some of my biggest hobbies/things I like are Space Exploration and Discovery, pr
 
 ## Lanuages
 I Know Well
-- Node
+- NodeJS
 - Python
+- Ruby
 
 I'm Learning
 - R
-- Node
-- Python
-
-Sort Of Know / Want To Learn
+- C#
+- React/Next
 - React Native
-- React
-- Go
+
 
 ## Links
 - [Website](http://landonboles.com) My website. Contact form is broken, still need to fix.
@@ -26,6 +24,6 @@ Sort Of Know / Want To Learn
 ## Projects
 
 ### My current projects:
-- [classmates delivery](https://classmates.delivery)
-- [aerosketch](https://peroxaan.com/Aerosketch) I am developing the backend API
+- [Classmates Delivery](https://classmates.delivery)
+- [Aerosketch](https://peroxaan.com/Aerosketch) I am developing the backend API
 
