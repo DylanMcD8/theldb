@@ -17,10 +17,6 @@ I'm Learning
 - React Native
 
 
-## Links
-- [Website](http://landonboles.com) My website. Contact form is broken, still need to fix.
-- [Twitter](https://twitter.com/theldb_)
-
 ## Projects
 
 ### My current projects:
